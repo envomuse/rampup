@@ -1,0 +1,11 @@
+{
+  "main": "main.js",
+  "name": "Envomuse Music Player",
+  "description": "VMax Agent BasicApp",
+  "version": "1.0.0",
+  "window": {
+    "title": "Envomuse Music Player",
+    "frame": true,
+    "position": "center"
+  }
+}

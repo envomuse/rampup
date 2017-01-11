@@ -1,0 +1,22 @@
+{
+  "appname": "noname",
+  "pages": [
+    {
+      "name": "dashboard",
+      "route": "dashboard"
+    },
+    {
+      "name": "socketList",
+      "route": "socketList"
+    },
+    {
+      "name": "groupList",
+      "route": "groupList"
+    }
+  ],
+  "otherEntries": {
+    "ioPackage": "jslibs/ioPackage",
+    "login": "login.js",
+    "imgViewer": "imgViewer.js"
+  }
+}

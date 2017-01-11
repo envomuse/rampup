@@ -1,0 +1,6 @@
+{
+  "name": "socketDetail",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./socket_detail.jsx"
+}

@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+build
+npm-debug.log
+
+_temp
+forever.log
+server/webapps/default/1.0.0/default.v1.0.0.zip
+server/dbfiles/data
+server/views/tpls

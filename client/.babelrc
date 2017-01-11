@@ -1,0 +1,7 @@
+{
+  "presets": ["es2015", "react"],
+  "plugins": ["transform-class-properties"
+    , "syntax-object-rest-spread"
+    , "transform-object-rest-spread"
+    , "transform-merge-sibling-variables"]
+}

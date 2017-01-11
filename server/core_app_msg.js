@@ -1,0 +1,4 @@
+export const APPINFO_MSG = {
+  APP_STATUS: 'APP_STATUS',
+  CAPTURE_PAGE: 'CAPTURE_PAGE'
+}

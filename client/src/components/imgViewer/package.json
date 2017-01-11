@@ -1,0 +1,6 @@
+{
+  "name": "imgViewer",
+  "version": "0.1.0",
+  "private": true,
+  "main": "./imgViewer.jsx"
+}

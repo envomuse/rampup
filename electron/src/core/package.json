@@ -1,0 +1,12 @@
+{
+  "main": "main.js",
+  "name": "VMaxAgent",
+  "description": "VMax Agent CORE",
+  "productName": "VMaxAgent",
+  "version": "1.2.0",
+  "window": {
+    "title": "VMax Agent CORE",
+    "frame": true,
+    "position": "center"
+  }
+}
